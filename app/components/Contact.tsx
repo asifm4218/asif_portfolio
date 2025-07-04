@@ -49,8 +49,8 @@ const Contact = () => {
           <h2 className="text-4xl md:text-5xl font-bold mb-6 glow-text">Get In Touch</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-cyber-green to-cyber-blue mx-auto mb-6"></div>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto">
-            Ready to secure your digital assets or build your next web application? 
-            Let's discuss how we can work together.
+          Eager to kickstart my professional journey, I’m open to collaborating on impactful projects and sharing knowledge
+          with like-minded peers. Let’s connect and grow together in the world of tech.
           </p>
         </motion.div>
 

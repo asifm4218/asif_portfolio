@@ -18,30 +18,30 @@ const Skills = () => {
       title: 'Web Development',
       skills: [
         { name: 'React.js', level: 75, color: 'bg-cyan-400' },
-        { name: 'Node.js', level: 88, color: 'bg-green-500' },
+        { name: 'Node.js', level: 58, color: 'bg-green-500' },
         { name: 'Next.js', level: 85, color: 'bg-gray-400' },
-        { name: 'Express.js', level: 90, color: 'bg-gray-600' },
-        { name: 'MongoDB', level: 82, color: 'bg-green-600' },
+        { name: 'Express.js', level: 45, color: 'bg-gray-600' },
+        { name: 'MongoDB', level: 63, color: 'bg-green-600' },
       ]
     },
     {
       title: 'Cybersecurity Tools',
       skills: [
-        { name: 'Metasploit', level: 90, color: 'bg-red-500' },
-        { name: 'Burp Suite', level: 88, color: 'bg-orange-500' },
-        { name: 'Nmap', level: 92, color: 'bg-purple-500' },
-        { name: 'Wireshark', level: 85, color: 'bg-blue-500' },
-        { name: 'OWASP ZAP', level: 80, color: 'bg-indigo-500' },
+        { name: 'Metasploit', level: 50, color: 'bg-red-500' },
+        { name: 'Burp Suite', level: 48, color: 'bg-orange-500' },
+        { name: 'Nmap', level: 72, color: 'bg-purple-500' },
+        { name: 'Wireshark', level: 65, color: 'bg-blue-500' },
+        { name: 'OWASP ZAP', level: 60, color: 'bg-indigo-500' },
       ]
     },
     {
       title: 'Security Frameworks',
       skills: [
-        { name: 'OWASP Top 10', level: 95, color: 'bg-red-400' },
-        { name: 'NIST Framework', level: 88, color: 'bg-blue-400' },
-        { name: 'ISO 27001', level: 82, color: 'bg-green-400' },
-        { name: 'MITRE ATT&CK', level: 85, color: 'bg-purple-400' },
-        { name: 'PCI DSS', level: 80, color: 'bg-yellow-400' },
+        { name: 'OWASP Top 10', level: 55, color: 'bg-red-400' },
+        { name: 'NIST Framework', level: 68, color: 'bg-blue-400' },
+        { name: 'ISO 27001', level: 62, color: 'bg-green-400' },
+        { name: 'MITRE ATT&CK', level: 55, color: 'bg-purple-400' },
+        { name: 'PCI DSS', level: 60, color: 'bg-yellow-400' },
       ]
     }
   ]

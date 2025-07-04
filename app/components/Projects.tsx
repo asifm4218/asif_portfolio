@@ -21,7 +21,8 @@ const Projects = () => {
       tech: ['Python', 'Tensorflow', 'OWASP ZAP', 'Flask'],
       icon: Search,
       color: 'border-purple-400',
-      image: 'https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=800'
+      image: 'https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=800'
+     
     },
     {
       title: 'Donateflow One ',
@@ -57,7 +58,7 @@ const Projects = () => {
       tech: ['React', 'Tailwind CSS', 'AES', 'DES'],
       icon: Shield,
       color: 'border-yellow-400',
-      image: 'https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=800'
+      image:  'https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
   ]
 

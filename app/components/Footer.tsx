@@ -20,8 +20,7 @@ const Footer = () => {
               <span className="text-xl font-bold glow-text">Xnonymous</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Securing digital landscapes while crafting innovative web solutions. 
-              Building the future, one secure line of code at a time.
+            Innovating with purpose. Securing with precision. Building tomorrow, one line at a time.
             </p>
           </motion.div>
 

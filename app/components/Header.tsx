@@ -42,7 +42,7 @@ const Header = () => {
               <Shield className="w-6 h-6 text-cyber-green" />
               <Code className="w-6 h-6 text-cyber-blue" />
             </div>
-            <span className="text-xl font-bold glow-text">CyberDev</span>
+            <span className="text-xl font-bold glow-text">Xnonymous</span>
           </motion.div>
 
           {/* Desktop Navigation */}

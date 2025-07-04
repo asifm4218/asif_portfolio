@@ -1,13 +1,13 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Shield, Code, Database, Lock, Globe, Terminal } from 'lucide-react'
+import { Shield, Code, Cloud, Lock, Globe, Terminal } from 'lucide-react'
 
 const About = () => {
   const skills = [
     { icon: Shield, name: 'Cybersecurity', color: 'text-red-400' },
     { icon: Code, name: 'Web Development', color: 'text-blue-400' },
-    { icon: Database, name: 'Database Management', color: 'text-green-400' },
+    { icon: Cloud, name: 'Cloud Computing', color: 'text-green-400' },
     { icon: Lock, name: 'Penetration Testing', color: 'text-purple-400' },
     { icon: Globe, name: 'Network Security', color: 'text-yellow-400' },
     { icon: Terminal, name: 'Scripting & Automation', color: 'text-cyan-400' },
@@ -37,14 +37,15 @@ const About = () => {
               Bridging Security & Development
             </h3>
             <p className="text-gray-300 text-lg leading-relaxed">
-              With over 5 years of experience in cybersecurity and web development, I specialize in 
-              creating secure, scalable applications while identifying and mitigating security vulnerabilities. 
-              My unique perspective allows me to build with security in mind from the ground up.
+            I'm a passionate cybersecurity and web development enthusiast, 
+            currently pursuing my B.E. in Computer Science with a focus on Cybersecurity. 
+            I've gained hands-on experience through virtual internships at Palo Alto Networks and Cisco Networking Academy,
+            where I explored network security, ethical hacking, and cloud protection.
             </p>
             <p className="text-gray-300 text-lg leading-relaxed">
-              I hold certifications in ethical hacking and have conducted security assessments for 
-              Fortune 500 companies. My development expertise spans modern frameworks like React, 
-              Node.js, and Python, always with a security-first approach.
+            From building an AI-based DeepFake Detection System to developing a real-time encrypted keylogger,
+             I bring a security-first approach to everything I create. As a finalist in national hackathons and an active tech leader at my college,
+             I’m driven to solve real-world problems with innovative, secure solutions.
             </p>
             <div className="flex flex-wrap gap-4 mt-8">
               <span className="px-4 py-2 bg-dark-card border border-cyber-green rounded-lg text-cyber-green">

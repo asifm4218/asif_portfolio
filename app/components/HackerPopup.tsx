@@ -82,7 +82,7 @@ const HackerPopup = ({ onClose }: HackerPopupProps) => {
             <div className="bg-dark-bg border border-dark-border rounded p-4 font-mono text-sm">
               <div className="flex items-center mb-2">
                 <Terminal className="w-4 h-4 text-cyber-green mr-2" />
-                <span className="text-cyber-green">system@cyberdev:~$</span>
+                <span className="text-cyber-green">system@xnonymous:~$</span>
               </div>
               <div className="text-gray-300">
                 {displayText}
