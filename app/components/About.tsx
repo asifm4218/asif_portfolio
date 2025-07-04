@@ -7,7 +7,7 @@ const About = () => {
   const skills = [
     { icon: Shield, name: 'Cybersecurity', color: 'text-red-400' },
     { icon: Code, name: 'Web Development', color: 'text-blue-400' },
-    { icon: Database, name: 'Database Security', color: 'text-green-400' },
+    { icon: Database, name: 'Database Management', color: 'text-green-400' },
     { icon: Lock, name: 'Penetration Testing', color: 'text-purple-400' },
     { icon: Globe, name: 'Network Security', color: 'text-yellow-400' },
     { icon: Terminal, name: 'Scripting & Automation', color: 'text-cyan-400' },
@@ -48,13 +48,13 @@ const About = () => {
             </p>
             <div className="flex flex-wrap gap-4 mt-8">
               <span className="px-4 py-2 bg-dark-card border border-cyber-green rounded-lg text-cyber-green">
-                CEH Certified
+                CC Certified
               </span>
               <span className="px-4 py-2 bg-dark-card border border-cyber-blue rounded-lg text-cyber-blue">
                 Full-Stack Developer
               </span>
               <span className="px-4 py-2 bg-dark-card border border-cyber-purple rounded-lg text-cyber-purple">
-                Security Researcher
+                Cyber Security 
               </span>
             </div>
           </motion.div>

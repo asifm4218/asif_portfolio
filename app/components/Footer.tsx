@@ -17,7 +17,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2 mb-4">
               <Shield className="w-6 h-6 text-cyber-green" />
               <Code className="w-6 h-6 text-cyber-blue" />
-              <span className="text-xl font-bold glow-text">CyberDev</span>
+              <span className="text-xl font-bold glow-text">Xnonymous</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Securing digital landscapes while crafting innovative web solutions. 
@@ -77,7 +77,7 @@ const Footer = () => {
           className="border-t border-dark-border pt-8 flex flex-col md:flex-row justify-between items-center"
         >
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © 2024 Alex Chen. All rights reserved.
+            © 2025 Asif M. All rights reserved.
           </p>
           <div className="flex items-center space-x-2 text-gray-400 text-sm">
             <span>Made with</span>

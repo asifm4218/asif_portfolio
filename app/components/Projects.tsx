@@ -6,7 +6,7 @@ import { ExternalLink, Github, Shield, Code, Search, Lock } from 'lucide-react'
 const Projects = () => {
   const projects = [
     {
-      title: 'Advanced Keylogger Detection System',
+      title: 'Enhanced Keylogger With Decryption',
       category: 'Cybersecurity',
       description: 'Developed a machine learning-based system to detect and prevent keylogger attacks in real-time.',
       tech: ['Python', 'TensorFlow', 'Windows API', 'Machine Learning'],
@@ -15,25 +15,25 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
-      title: 'Web Application Penetration Testing Suite',
-      category: 'Cybersecurity',
+      title: 'Deepfake Dectection With ML',
+      category: 'AIML',
       description: 'Comprehensive testing framework for identifying OWASP Top 10 vulnerabilities in web applications.',
-      tech: ['Python', 'Burp Suite', 'OWASP ZAP', 'SQL Injection'],
+      tech: ['Python', 'Tensorflow', 'OWASP ZAP', 'Flask'],
       icon: Search,
       color: 'border-purple-400',
       image: 'https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
-      title: 'Secure E-Commerce Platform',
+      title: 'Donateflow One ',
       category: 'Web Development',
-      description: 'Full-stack e-commerce platform with advanced security features and payment integration.',
-      tech: ['React', 'Node.js', 'MongoDB', 'Stripe API'],
+      description: 'Full-stack Donatation Mangement System with advanced admin control features and with tracking .',
+      tech: ['Next.js', 'Typescript', 'SDLC', 'Tailwind CSS'],
       icon: Code,
       color: 'border-blue-400',
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
-      title: 'Network Vulnerability Scanner',
+      title: 'BruteShield-(A Ultimate Password Tool)',
       category: 'Cybersecurity',
       description: 'Automated network scanning tool for identifying security vulnerabilities and misconfigurations.',
       tech: ['Python', 'Nmap', 'Scapy', 'Network Protocols'],
@@ -42,19 +42,19 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
-      title: 'Real-time Chat Application',
+      title: 'College Bus Tracking APP',
       category: 'Web Development',
-      description: 'Secure real-time messaging platform with end-to-end encryption and user authentication.',
-      tech: ['React', 'Socket.io', 'Express', 'JWT'],
+      description: 'Secure real-time Tracking platform with notification and 3-user to have a control over it.',
+      tech: ['React', 'Typescript', 'Express', 'JWT'],
       icon: Code,
       color: 'border-cyan-400',
       image: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
-      title: 'Incident Response Dashboard',
+      title: 'Text Encrytion & Decryption App',
       category: 'Cybersecurity',
       description: 'Real-time security incident monitoring and response dashboard for enterprise environments.',
-      tech: ['React', 'D3.js', 'Python', 'ELK Stack'],
+      tech: ['React', 'Tailwind CSS', 'AES', 'DES'],
       icon: Shield,
       color: 'border-yellow-400',
       image: 'https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=800'

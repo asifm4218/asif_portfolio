@@ -29,7 +29,7 @@ const Hero = () => {
             transition={{ delay: 0.4 }}
             className="text-5xl md:text-7xl font-bold mb-6"
           >
-            <span className="glow-text">Alex Chen</span>
+            <span className="glow-text">Asif M</span>
           </motion.h1>
 
           <motion.div
@@ -64,7 +64,7 @@ const Hero = () => {
               whileTap={{ scale: 0.95 }}
               className="cyber-button px-8 py-3 rounded-lg font-semibold"
             >
-              View My Work
+              <a href="#projects">View My Work</a>
             </motion.button>
             <motion.button
               whileHover={{ scale: 1.05 }}

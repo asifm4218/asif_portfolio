@@ -26,14 +26,14 @@ const Contact = () => {
   }
 
   const contactInfo = [
-    { icon: Mail, label: 'Email', value: 'alex.chen@cyberdev.com', href: 'mailto:alex.chen@cyberdev.com' },
-    { icon: Phone, label: 'Phone', value: '+1 (555) 123-4567', href: 'tel:+15551234567' },
-    { icon: MapPin, label: 'Location', value: 'San Francisco, CA', href: '#' },
+    { icon: Mail, label: 'Email', value: 'mohammedasif@gmail.com', href: 'mailto:alex.chen@cyberdev.com' },
+    { icon: Phone, label: 'Phone', value: '+91 8681076352', href: 'tel:+15551234567' },
+    { icon: MapPin, label: 'Location', value: 'Chennai, Tamil Nadu', href: '#' },
   ]
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/asifm4218', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/asif-m-369116290/', label: 'LinkedIn' },
     { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
   ]
 
