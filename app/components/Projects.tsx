@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { ExternalLink, Github, Shield, Code, Search, Lock } from 'lucide-react'
+import { ExternalLink, Github, Shield, Code, Search, Lock, icons } from 'lucide-react'
 
 const Projects = () => {
   const projects = [
@@ -15,14 +15,13 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
-      title: 'Deepfake Dectection With ML',
+      title: 'Deepfake Detection with ML',
       category: 'AIML',
-      description: 'Comprehensive testing framework for identifying OWASP Top 10 vulnerabilities in web applications.',
-      tech: ['Python', 'Tensorflow', 'OWASP ZAP', 'Flask'],
+      description: 'An AI-powered system designed to detect manipulated media using deep learning techniques for content authenticity and digital forensics.',
+      tech: ['Python', 'TensorFlow', 'Flask'],
       icon: Search,
       color: 'border-purple-400',
-      image: 'https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=800'
-     
+      image: 'https://images.pexels.com/photos/8438926/pexels-photo-8438926.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
       title: 'Donateflow One ',
